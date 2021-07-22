@@ -1,0 +1,66 @@
+2021-07-22 10:29:33,890 :INFO : test_e2e :getting all the card titles
+2021-07-22 10:29:33,996 :INFO : test_e2e :iphone X
+2021-07-22 10:29:34,045 :INFO : test_e2e :Samsung Note 8
+2021-07-22 10:29:34,103 :INFO : test_e2e :Nokia Edge
+2021-07-22 10:29:34,146 :INFO : test_e2e :Blackberry
+2021-07-22 10:29:34,502 :INFO : test_e2e :Entering country name as ind
+2021-07-22 10:29:40,284 :INFO : test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-07-22 10:41:03,098 :INFO : test_formSubmission :first name is Rahul
+2021-07-22 10:41:04,298 :INFO : test_formSubmission :first name is Anshila
+2021-07-22 10:41:04,298 :INFO : test_formSubmission :first name is Anshila
+2021-07-22 10:42:05,577 :INFO : test_formSubmission :first name is Rahul
+2021-07-22 10:42:06,445 :INFO : test_formSubmission :first name is Anshika
+2021-07-22 10:42:06,445 :INFO : test_formSubmission :first name is Anshika
+2021-07-22 10:44:16,248 :INFO : test_formSubmission :first name is Rahul
+2021-07-22 10:44:16,404 :INFO : test_formSubmission :last name is Shetty
+2021-07-22 10:44:16,590 :INFO : test_formSubmission :gender is Male
+2021-07-22 10:44:17,145 :INFO : test_formSubmission :first name is Anshika
+2021-07-22 10:44:17,145 :INFO : test_formSubmission :first name is Anshika
+2021-07-22 10:44:17,253 :INFO : test_formSubmission :last name is Shetty
+2021-07-22 10:44:17,253 :INFO : test_formSubmission :last name is Shetty
+2021-07-22 10:44:17,424 :INFO : test_formSubmission :gender is Female
+2021-07-22 10:44:17,424 :INFO : test_formSubmission :gender is Female
+2021-07-22 10:50:57,836 :INFO : test_formSubmission :first name is Rahul
+2021-07-22 10:50:57,962 :INFO : test_formSubmission :last name is Shetty
+2021-07-22 10:50:58,157 :INFO : test_formSubmission :gender is Male
+2021-07-22 10:50:58,730 :INFO : test_formSubmission :first name is Anshika
+2021-07-22 10:50:58,730 :INFO : test_formSubmission :first name is Anshika
+2021-07-22 10:50:58,870 :INFO : test_formSubmission :last name is Shetty
+2021-07-22 10:50:58,870 :INFO : test_formSubmission :last name is Shetty
+2021-07-22 10:50:59,083 :INFO : test_formSubmission :gender is Female
+2021-07-22 10:50:59,083 :INFO : test_formSubmission :gender is Female
+2021-07-22 10:51:04,936 :INFO : test_e2e :getting all the card titles
+2021-07-22 10:51:05,038 :INFO : test_e2e :iphone X
+2021-07-22 10:51:05,071 :INFO : test_e2e :Samsung Note 8
+2021-07-22 10:51:05,109 :INFO : test_e2e :Nokia Edge
+2021-07-22 10:51:05,145 :INFO : test_e2e :Blackberry
+2021-07-22 10:51:05,504 :INFO : test_e2e :Entering country name as ind
+2021-07-22 10:51:11,471 :INFO : test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-07-22 13:04:12,322 :INFO : test_formSubmission :first name is Rahul
+2021-07-22 13:04:12,442 :INFO : test_formSubmission :last name is Shetty
+2021-07-22 13:04:12,617 :INFO : test_formSubmission :gender is Male
+2021-07-22 13:04:13,152 :INFO : test_formSubmission :first name is Anshika
+2021-07-22 13:04:13,152 :INFO : test_formSubmission :first name is Anshika
+2021-07-22 13:04:13,270 :INFO : test_formSubmission :last name is Shetty
+2021-07-22 13:04:13,270 :INFO : test_formSubmission :last name is Shetty
+2021-07-22 13:04:13,442 :INFO : test_formSubmission :gender is Female
+2021-07-22 13:04:13,442 :INFO : test_formSubmission :gender is Female
+2021-07-22 13:04:18,623 :INFO : test_e2e :getting all the card titles
+2021-07-22 13:04:18,703 :INFO : test_e2e :iphone X
+2021-07-22 13:04:18,733 :INFO : test_e2e :Samsung Note 8
+2021-07-22 13:04:18,761 :INFO : test_e2e :Nokia Edge
+2021-07-22 13:04:18,826 :INFO : test_e2e :Blackberry
+2021-07-22 13:04:19,092 :INFO : test_e2e :Entering country name as ind
+2021-07-22 13:04:24,791 :INFO : test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2021-07-22 18:15:17,700 :INFO : test_formSubmission :first name is Rahul
+2021-07-22 18:15:17,848 :INFO : test_formSubmission :last name is Shetty
+2021-07-22 18:15:18,069 :INFO : test_formSubmission :gender is Male
+2021-07-22 18:16:35,119 :INFO : test_formSubmission :first name is a
+2021-07-22 18:16:35,227 :INFO : test_formSubmission :last name is b
+2021-07-22 18:16:35,408 :INFO : test_formSubmission :gender is c
+2021-07-22 18:16:49,736 :INFO : test_formSubmission :first name is Rahul
+2021-07-22 18:16:49,855 :INFO : test_formSubmission :last name is Shetty
+2021-07-22 18:16:50,035 :INFO : test_formSubmission :gender is Male
